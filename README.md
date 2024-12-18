@@ -1,0 +1,2 @@
+# -Health-vs.-Wealth-A-Decade-of-Insights-from-S-P-500-Sectors
+ Capstone project analyzing financial and healthcare sectors in S&amp;P 500 (2001-2019), focusing on performance during the 2008 Financial Crisis. Tools used: **Python** for data extraction, cleaning, and analysis; **Tableau** for interactive dashboards. Highlights sectoral trends, resilience, and actionable insights for investors and analysts.
